@@ -74,3 +74,7 @@ def run_game():
       break
 
 run_game()
+
+#This is a comment
+
+#Other comment
