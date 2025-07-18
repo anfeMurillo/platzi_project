@@ -78,3 +78,5 @@ run_game()
 #This is a comment
 
 #Other comment
+
+""" This is a comment """
